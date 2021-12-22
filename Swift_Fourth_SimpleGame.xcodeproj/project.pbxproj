@@ -15,6 +15,17 @@
 		5154890024C5707000D1152B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 515488FE24C5707000D1152B /* LaunchScreen.storyboard */; };
 		5154890B24C5707000D1152B /* Swift_Fourth_SimpleGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5154890A24C5707000D1152B /* Swift_Fourth_SimpleGameTests.swift */; };
 		5154891624C5707000D1152B /* Swift_Fourth_SimpleGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5154891524C5707000D1152B /* Swift_Fourth_SimpleGameUITests.swift */; };
+		5154892524C57AF100D1152B /* testing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5154892424C57AF100D1152B /* testing.jpg */; };
+		5154892724C57F2700D1152B /* fish2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5154892624C57F2700D1152B /* fish2.png */; };
+		5154892924C57F3000D1152B /* fish.png in Resources */ = {isa = PBXBuildFile; fileRef = 5154892824C57F3000D1152B /* fish.png */; };
+		5154892B24C581BB00D1152B /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 5154892A24C581BB00D1152B /* red.png */; };
+		5154892D24C581D700D1152B /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 5154892C24C581D700D1152B /* blue.png */; };
+		5154892F24C581FF00D1152B /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 5154892E24C581FF00D1152B /* yellow.png */; };
+		5154893124C589B500D1152B /* GameCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5154893024C589B500D1152B /* GameCode.swift */; };
+		51A2BFA524C66F7200FFB283 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 51A2BFA424C66F7200FFB283 /* green.png */; };
+		51A2BFA724C687F000FFB283 /* Assets1.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51A2BFA624C687F000FFB283 /* Assets1.xcassets */; };
+		51A2BFA924C6A3E400FFB283 /* HappyEnding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A2BFA824C6A3E400FFB283 /* HappyEnding.swift */; };
+		51A2BFAB24C6AB6900FFB283 /* SadEnding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A2BFAA24C6AB6900FFB283 /* SadEnding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,17 @@
 		5154891124C5707000D1152B /* Swift_Fourth_SimpleGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Swift_Fourth_SimpleGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5154891524C5707000D1152B /* Swift_Fourth_SimpleGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Fourth_SimpleGameUITests.swift; sourceTree = "<group>"; };
 		5154891724C5707000D1152B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5154892424C57AF100D1152B /* testing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = testing.jpg; path = ../../../../Desktop/imagedata/testing.jpg; sourceTree = "<group>"; };
+		5154892624C57F2700D1152B /* fish2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fish2.png; path = ../../../../Desktop/imagedata/fish2.png; sourceTree = "<group>"; };
+		5154892824C57F3000D1152B /* fish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fish.png; path = ../../../../Desktop/imagedata/fish.png; sourceTree = "<group>"; };
+		5154892A24C581BB00D1152B /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = red.png; path = ../../../../Desktop/imagedata/red.png; sourceTree = "<group>"; };
+		5154892C24C581D700D1152B /* blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blue.png; path = ../../../../Desktop/imagedata/gamedata/blue.png; sourceTree = "<group>"; };
+		5154892E24C581FF00D1152B /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yellow.png; path = ../../../../Desktop/imagedata/gamedata/yellow.png; sourceTree = "<group>"; };
+		5154893024C589B500D1152B /* GameCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCode.swift; sourceTree = "<group>"; };
+		51A2BFA424C66F7200FFB283 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = green.png; path = ../../../../Desktop/imagedata/green.png; sourceTree = "<group>"; };
+		51A2BFA624C687F000FFB283 /* Assets1.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets1.xcassets; path = ../../../../Desktop/Assets1.xcassets; sourceTree = "<group>"; };
+		51A2BFA824C6A3E400FFB283 /* HappyEnding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyEnding.swift; sourceTree = "<group>"; };
+		51A2BFAA24C6AB6900FFB283 /* SadEnding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SadEnding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				515488F224C5707000D1152B /* Swift_Fourth_SimpleGame */,
+				5154892324C57AD300D1152B /* ImagePack */,
 				5154890924C5707000D1152B /* Swift_Fourth_SimpleGameTests */,
 				5154891424C5707000D1152B /* Swift_Fourth_SimpleGameUITests */,
 				515488F124C5707000D1152B /* Products */,
@@ -99,6 +122,7 @@
 		515488F224C5707000D1152B /* Swift_Fourth_SimpleGame */ = {
 			isa = PBXGroup;
 			children = (
+				51A2BFA624C687F000FFB283 /* Assets1.xcassets */,
 				515488F324C5707000D1152B /* AppDelegate.swift */,
 				515488F524C5707000D1152B /* SceneDelegate.swift */,
 				515488F724C5707000D1152B /* ViewController.swift */,
@@ -106,6 +130,9 @@
 				515488FC24C5707000D1152B /* Assets.xcassets */,
 				515488FE24C5707000D1152B /* LaunchScreen.storyboard */,
 				5154890124C5707000D1152B /* Info.plist */,
+				5154893024C589B500D1152B /* GameCode.swift */,
+				51A2BFA824C6A3E400FFB283 /* HappyEnding.swift */,
+				51A2BFAA24C6AB6900FFB283 /* SadEnding.swift */,
 			);
 			path = Swift_Fourth_SimpleGame;
 			sourceTree = "<group>";
@@ -126,6 +153,20 @@
 				5154891724C5707000D1152B /* Info.plist */,
 			);
 			path = Swift_Fourth_SimpleGameUITests;
+			sourceTree = "<group>";
+		};
+		5154892324C57AD300D1152B /* ImagePack */ = {
+			isa = PBXGroup;
+			children = (
+				5154892E24C581FF00D1152B /* yellow.png */,
+				51A2BFA424C66F7200FFB283 /* green.png */,
+				5154892C24C581D700D1152B /* blue.png */,
+				5154892A24C581BB00D1152B /* red.png */,
+				5154892824C57F3000D1152B /* fish.png */,
+				5154892624C57F2700D1152B /* fish2.png */,
+				5154892424C57AF100D1152B /* testing.jpg */,
+			);
+			path = ImagePack;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +273,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5154892524C57AF100D1152B /* testing.jpg in Resources */,
+				5154892F24C581FF00D1152B /* yellow.png in Resources */,
+				5154892724C57F2700D1152B /* fish2.png in Resources */,
 				5154890024C5707000D1152B /* LaunchScreen.storyboard in Resources */,
+				51A2BFA724C687F000FFB283 /* Assets1.xcassets in Resources */,
+				5154892D24C581D700D1152B /* blue.png in Resources */,
 				515488FD24C5707000D1152B /* Assets.xcassets in Resources */,
+				5154892B24C581BB00D1152B /* red.png in Resources */,
+				51A2BFA524C66F7200FFB283 /* green.png in Resources */,
 				515488FB24C5707000D1152B /* Main.storyboard in Resources */,
+				5154892924C57F3000D1152B /* fish.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,7 +309,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				515488F824C5707000D1152B /* ViewController.swift in Sources */,
+				51A2BFA924C6A3E400FFB283 /* HappyEnding.swift in Sources */,
 				515488F424C5707000D1152B /* AppDelegate.swift in Sources */,
+				51A2BFAB24C6AB6900FFB283 /* SadEnding.swift in Sources */,
+				5154893124C589B500D1152B /* GameCode.swift in Sources */,
 				515488F624C5707000D1152B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -437,6 +489,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4XL58DYFGP;
 				INFOPLIST_FILE = Swift_Fourth_SimpleGame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -455,6 +508,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4XL58DYFGP;
 				INFOPLIST_FILE = Swift_Fourth_SimpleGame/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
